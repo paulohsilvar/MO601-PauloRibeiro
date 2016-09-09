@@ -1,0 +1,9 @@
+Trace Cache: a Low Latency Approach to High Bandwidth Instruction Fetching
+Eric Rotenberg (Madison), Steve Bennett (Intel Corporation), James E. Smith (Madison)
+Artigo lido na sala
+
+Redundant Memory Mappings for Fast Access to Large Memories
+Sang-Woo Jun (MIT), Ming Liu (MIT), Sungjin Lee (MIT), Jamey Hicks (Quanta Research Cambridge), John Ankcorn (Quanta Research Cambridge), Myron King (Quanta Research Cambridge), Shuotao Xu (MIT), and Arvind (MIT) 
+ISCA/2015
+Monday, 10:20-11:10
+Session 2B: Virtual Memory Management
