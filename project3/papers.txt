@@ -5,5 +5,12 @@ Artigo lido na sala
 Redundant Memory Mappings for Fast Access to Large Memories
 Sang-Woo Jun (MIT), Ming Liu (MIT), Sungjin Lee (MIT), Jamey Hicks (Quanta Research Cambridge), John Ankcorn (Quanta Research Cambridge), Myron King (Quanta Research Cambridge), Shuotao Xu (MIT), and Arvind (MIT) 
 ISCA/2015
-Monday, 10:20-11:10
+Monday, 10:20am-11:10am
 Session 2B: Virtual Memory Management
+
+PowerChop: Identifying and Managing Non-critical Units in Hybrid Processor Architectures
+Michael A. Laurenzano, Yunqi Zhang, Jiang Chen, Lingjia Tang and Jason Mars
+Department of Electrical Engineering and Computer Science University of Michigan
+ISCA/2016
+Monday, 01:30pm-02:30pm
+Session 2B: Hardware Design 
