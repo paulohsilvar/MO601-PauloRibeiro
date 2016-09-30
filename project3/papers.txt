@@ -13,4 +13,17 @@ Michael A. Laurenzano, Yunqi Zhang, Jiang Chen, Lingjia Tang and Jason Mars
 Department of Electrical Engineering and Computer Science University of Michigan
 ISCA/2016
 Monday, 01:30pm-02:30pm
-Session 2B: Hardware Design 
+Session 2B: Hardware Design
+
+ArchRanker: A Ranking Approach to Design Space Exploration
+Tianshi Chen (Chinese Academy of Sciences), Qi Guo (Carnegie Mellon University), Ke Tang (University of Science and Technology of China), Olivier Temam (Inria), Zhiwei Xu (Chinese Academy of Sciences), Zhi-Hua Zhou (Nanjing University), Yunji Chen (Chinese Academy of Sciences)
+ISCA/2014
+Monday, 1:15pm-2:55pm
+Section 2B: Design Space Exploration
+
+Branch Vanguard: Decomposing Branch Functionality into Prediction and Resolution Instructions
+Daniel McFarlin (CMU) and Craig Zilles (UIUC)
+ISCA/2015
+Tuesday, 8.45-10.00
+Session 5: Processor Architecture II
+ 
