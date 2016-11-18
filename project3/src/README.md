@@ -1,0 +1,21 @@
+O diretorio common contém o simulador do sniper que foi editado para implementar trace cache.
+
+/common/core/memory_subsystem/fast_nehalem/fast_cache.h
+/common/core/memory_subsystem/fast_nehalem/memory_manager.cc
+/common/core/memory_subsystem/fast_nehalem/memory_manager.h
+
+
+Para compilar e simular o sniper foi seguido o tutorial que se encontra no link:
+http://snipersim.org/documents/sniper-manual.pdf
+
+
+
+Para simular o sniper com um benchmark também foi seguido pelo manual, mas exatamente pelos comandos:
+
+$ cd  benchmarks
+$ export  SNIPER_ROOT =/path/to/sniper
+$ export  BENCHMARKS_ROOT=$(pwd)
+$ make
+$ ./run -sniper -d ./results  -p splash2 -fft -i small -c gainestown
+
+É preciso ter criado o diretorio ./results dentro do $BENCHMARKS_ROOT, é o path usado para salvar os resultados.
