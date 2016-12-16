@@ -26,28 +26,4 @@ eles são lidos pelo script em python para gerar o gráfico de resultado.
 4- O arquivo plot_project4.py é um script em python que utiliza de bibliotecas de geração de gráficos
 para construir o gráfico de resultados baseado nos dados contidos nos arquivos mensionados no item 3.
 
-5- O diretorio config possui os arquivos de configuração usados na chamado do simulador sniper,
-nesses arquivos possuem a configuração do processador. Os arquivos que são passados para o simulador
-são os que tem o prefixo "gainestown", ele já inclui os com prefixo "nehalem". Nos arquivos com prefixo
-"nehalem" estão as configurações para a trace cache que é igual para os dois e as configurações de brand
-predictor que altera 1bit e o usado no pentium_m.
-
-6- Para compilar e simular o sniper foi seguido o tutorial que se encontra no link:
-http://snipersim.org/documents/sniper-manual.pdf
-
-É preciso ter baixado tanto o simulador sniper quanto os benchmarks por eles fornecidos.
-
-Para simular o sniper com um benchmark também foi seguido pelo manual, mas exatamente pelos comandos:
-
-$ cd  benchmarks
-$ export  SNIPER_ROOT =/path/to/sniper
-$ export  BENCHMARKS_ROOT=$(pwd)
-$ make
-$ ./run -sniper  -p splash2 -fft -i small -c gainestown
-
-Para simular com o cenário de brand predictor de 1 bit, alteramos o arquivo de configuração na linha de comando, conforme exemplo a seguir:
-
-$ ./run -sniper  -p splash2 -fft -i small -c gainestown_onebit
-
-
 
